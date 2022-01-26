@@ -1,0 +1,155 @@
+    1  
+    2  pwd
+    3  hello
+    4  lsb_release -a
+    5  sudo apt update
+    6  clear
+    7  python5 --version
+    8  python3 --version
+    9  git --version
+   10  clear
+   11  git config --global user.name "Ali Lalee"
+   12  git config --global user.email "ali.lalee@yahoo.com"
+   13  git config --global colar.ui auto
+   14  pwd
+   15  l
+   16  lll
+   17  lllll
+   18  ll
+   19  clear
+   20  //
+   21  clear
+   22  ll
+   23  kali
+   24  /
+   25  //
+   26  cd kali
+   27  cd..
+   28  cd.
+   29  hello
+   30  ls
+   31  cd ITP270-Lalee
+   32  ls
+   33  clear
+   34  nano lecture3
+   35  ls
+   36  nano lecture3
+   37  cloar
+   38  clear
+   39  git status
+   40  git add -a
+   41  git sta
+   42  git status
+   43  git add -a
+   44  git add -A
+   45  git status
+   46  git commit -m "adding the Lecture3 file with folder structure"
+   47  ls
+   48  nano git_commands_class.txt
+   49  git push
+   50  v
+   51  ^V
+   52  git push
+   53  cd ..
+   54  mkdir Movies
+   55  cd movies
+   56  cd Movies
+   57  mkdir Action
+   58  mkdir Comedy
+   59  mkdir Drama
+   60  ls
+   61  clear
+   62  touch genres.txt
+   63  l
+   64  ls
+   65  cd Action
+   66  mkdir Scifi
+   67  cd Scifi
+   68  touch terminator.txt
+   69  ls
+   70  pwd
+   71  cd Action
+   72  cd ..
+   73  mkdir Superhero
+   74  touch batman.txt
+   75  touch matrix-reloaded.txt
+   76  touch matrix-revolution.txt
+   77  touch matrix.txt
+   78  touch superman.txt
+   79  touch wonderwoman.txt
+   80  cd..
+   81  cd ..
+   82  ls
+   83  cd Comedy
+   84  ls
+   85  mkdir slapstick
+   86  mkdir satire
+   87  touch the-office.txt
+   88  cd slapstick
+   89  touch waterboy.txt
+   90  touch zoolander.txt
+   91  cd ..
+   92  lss
+   93  ls
+   94  cd satire
+   95  touch fightclub.txt
+   96  ls
+   97  cd ..
+   98  l
+   99  cd ..
+  100  l-
+  101  ls
+  102  cd D
+  103  cd Drama
+  104  mkdir biopic
+  105  mkdir historica/
+  106  rm historica
+  107  rmdir historica
+  108  ls
+  109  mkdir historical
+  110  cd biopic
+  111  touch cleopatra.txt
+  112  touch lincoln.txt
+  113  touch frida.txt
+  114  touch notorious.txt
+  115  touch ray.txt
+  116  ls
+  117  cd ..
+  118  ls
+  119  cd historical
+  120  touch gladiator.txt
+  121  touch selma.txt
+  122  clear
+  123  cd ..
+  124  ch ..
+  125  cd ..
+  126  tree
+  127  touch -help
+  128  touch --help
+  129  touch test.txt Action
+  130  tree
+  131  rm test.txt
+  132  tree
+  133  touch test.txt Action/Scifi
+  134  tree
+  135  rm 
+  136  rm test.txt
+  137  clear
+  138  ll
+  139  clear
+  140  tree
+  141  pwd
+  142  clear
+  143  tree
+  144  touch test.txt /Action
+  145  touch --help
+  146  touch Action/test.txt
+  147  tree
+  148  rm Action/test.txt
+  149  clear
+  150  tree
+  151  ls
+  152  cd ..
+  153  ls
+  154  cd ITP270-Lalee
+  155  ls
