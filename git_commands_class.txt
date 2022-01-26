@@ -1,0 +1,108 @@
+    1  
+    2  pwd
+    3  hello
+    4  lsb_release -a
+    5  sudo apt update
+    6  clear
+    7  python5 --version
+    8  python3 --version
+    9  git --version
+   10  clear
+   11  git config --global user.name "Ali Lalee"
+   12  git config --global user.email "ali.lalee@yahoo.com"
+   13  git config --global colar.ui auto
+   14  pwd
+   15  l
+   16  lll
+   17  lllll
+   18  ll
+   19  clear
+   20  //
+   21  clear
+   22  ll
+   23  kali
+   24  /
+   25  //
+   26  cd kali
+   27  cd..
+   28  cd.
+   29  ll
+   30  mkdir ITP270Lecture
+   31  ls
+   32  ch ITP270Lecture
+   33  cd ITP270Lecture
+   34  ls
+   35  clear
+   36  cl
+   37  clear
+   38  nano ITP270Lecture.py
+   39  nano ITP270Ali1/20.py
+   40  nano ITP270Lecture.py
+   41  ls
+   42  nano ITP270Lecture2.py
+   43  cat ITP270Lecture2.py
+   44  nano ITP270Lecture2.py
+   45  python3 ITP270@lecture2.py
+   46  cat ITP270Lecture2.py
+   47  python3 ITP270lecture2.py
+   48  python3 ITP270Lecture2.py
+   49  nano ITP270Lecture2.py
+   50  python3 ITP270Lecture2.py
+   51  nano ITP270Lecture2.py
+   52  python3 ITP270Lecture2.py
+   53  nano ITP270Lecture2.py
+   54  python3 ITP270Lecture2.py
+   55  nano ITP270Lecture2.py
+   56  python3 ITP270Lecture2.py
+   57  nano ITP270Lecture2.py
+   58  git init
+   59  git clone https://github.com/ALilalee/ITP270-Lalee.git
+   60  ls
+   61  pwd
+   62  cd ..
+   63  mkdir ITP270Lecture
+   64  cd ITP270Lecture
+   65  ls
+   66  man cp
+   67  clear
+   68  cp ITP270Lecture2.py ~/ITP270-Ali/
+   69  cd ..
+   70  ls
+   71  cd ITP270Lecture
+   72  ls
+   73  cp ITP270Lecture2.py ~/ITP270-Lalee/
+   74  cp ITP270Lecture2.py ITP270-Lalee
+   75  ls
+   76  cd ITP270-Lalee
+   77  ls
+   78  mv help
+   79  mv --help
+   80  --help
+   81  hely
+   82  help
+   83  -help
+   84  ls
+   85  cd ..
+   86  ls
+   87  cd ..
+   88  ls
+   89  ch ITP270Lecture
+   90  cd ITP270-Lalee
+   91  cd ITP270Lecture ITP270-Lalee
+   92  cd ITP270Lecture/ITP270-Lalee
+   93  pwd
+   94  ls
+   95  git status
+   96  clear
+   97  git add -A
+   98  git status
+   99  git commit -m "Adding the file ITP270Lecture2.py"
+  100  git status
+  101  clear
+  102  git push
+  103  ls
+  104  python3 ITP270Lecture2.py
+  105  mdir --help
+  106  mdosdirectory --help
+  107  history
+  108  clear
