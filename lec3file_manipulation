@@ -1,0 +1,52 @@
+    1  
+    2  pwd
+    3  hello
+    4  lsb_release -a
+    5  sudo apt update
+    6  clear
+    7  python5 --version
+    8  python3 --version
+    9  git --version
+   10  clear
+   11  git config --global user.name "Ali Lalee"
+   12  git config --global user.email "ali.lalee@yahoo.com"
+   13  git config --global colar.ui auto
+   14  pwd
+   15  l
+   16  lll
+   17  lllll
+   18  ll
+   19  clear
+   20  //
+   21  clear
+   22  ll
+   23  kali
+   24  /
+   25  //
+   26  cd kali
+   27  cd..
+   28  cd.
+   29  hello
+   30  ls
+   31  cd ITP270-Lalee
+   32  ls
+   33  cd ..
+   34  cd M
+   35  cd Movies
+   36  clear
+   37  ls
+   38  tree
+   39  cd /Action/
+   40  cd Action
+   41  ls
+   42  clear
+   43  ls
+   44  nano superman.txt
+   45  clear
+   46  ls
+   47  nano /home/kali/Movies/Comedy/satire/fightclub.txt
+   48  cat /home/kali/Movies/Comedy/satire/fightclub.txt
+   49  cp /home/kali/Movies/Action/Scifi/terminator.txt /home/kali/Movies/Drama/historical
+   50  cd /home/kali/Movies/Drama/historical
+   51  ls
+   52  cd /home/kali/ITP270-Lalee
