@@ -1,0 +1,167 @@
+    1  
+    2  ls
+    3  cd ITP270-Lalee
+    4  ls
+    5  mkdir his
+    6  ls
+    7  mv *.txt his
+    8  ls
+    9  cd his
+   10  ls
+   11  cd ..
+   12  cat lec3file_manipulation
+   13  ls
+   14  mv lec3file_manipulation his
+   15  mv lecture3 his
+   16  mv README.md his
+   17  ls
+   18  mv LICENSE his
+   19  ls
+   20  rm test
+   21  rm -r test
+   22  ls
+   23  mkdir ITP270-Lecture
+   24  ls
+   25  cd ..
+   26  cd ITP270-Lalee
+   27  git statu
+   28  git status
+   29  git add -A
+   30  git status
+   31  git commit -m "organizing"
+   32  git push
+   33  ls
+   34  git commit --help
+   35  ls
+   36  tree
+   37  sudo apt update
+   38  git --help
+   39  git config --global color.ui auto
+   40  ls
+   41  cd ITP270-Lalee
+   42  ls
+   43  mv ITP270Lecture2.py ITP270-Lecture
+   44  ls
+   45  cd ITP270-Lecture
+   46  ls
+   47  mkdir python
+   48  ls
+   49  mv ITP270Lecture2.py python
+   50  ls
+   51  cd python
+   52  ls
+   53  tree
+   54  cd ~
+   55  tree
+   56  touch ~/ITP270-Lalee/ITP270-Lecture/python/
+   57  tree
+   58  touch test~/ITP270-Lalee/ITP270-Lecture/python/
+   59  touch test ~/ITP270-Lalee/ITP270-Lecture/python/
+   60  tree
+   61  touch ~/ITP270-Lalee/ITP270-Lecture/python test
+   62  tree
+   63  touch ~/ITP270-Lalee/ITP270-Lecture/python test.py
+   64  tree
+   65  touch test.py ~/ITP270-Lalee/ITP270-Lecture/python 
+   66  tree
+   67  touch --help
+   68  rm test
+   69  rm test.py
+   70  ls
+   71  tree
+   72  cd ITP270-Lalee/ITP270-Lecture/python
+   73  cd ..
+   74  touch justAfile.py
+   75  ls
+   76  mv justAfile.py python
+   77  clear
+   78  git init
+   79  cd ..
+   80  git init
+   81  cd ..
+   82  cd ITP270-Lalee
+   83  git add -A
+   84  git st
+   85  git status
+   86  git add -A
+   87  git pull
+   88  git status
+   89  tree
+   90  git push 
+   91  clear 
+   92  git status
+   93  git commit -m "org"
+   94  git add -A
+   95  cd ITP270-Lecture
+   96  git add -A
+   97  git status
+   98  ls
+   99  rm -r ITP270-Lalee
+  100  git pull ^[[200~https://github.com/ALilalee/ITP270-Shahpar.git~
+  101  git pull https://github.com/ALilalee/ITP270-Shahpar.git
+  102  git clone https://github.com/ALilalee/ITP270-Shahpar.git
+  103  ls
+  104  tree
+  105  cd ~/ITP270-Shahpar/geography
+  106  clear
+  107  ls
+  108  echo "Hello"
+  109  ls
+  110  echo "Hello" > hello.txt
+  111  ls
+  112  cat hello.txt
+  113  ls
+  114  cat continents.txt
+  115  cat oceans.txt > continents.txt
+  116  cat continents.txt
+  117  clear
+  118  cat rivers.txt
+  119  cat glaciers.txt
+  120  cat glaciers.txt >> rivers.txt
+  121  cat rivers.txt
+  122  cat volcanoes.txt
+  123  cat volcanoes.txt | wc
+  124  cat volcanoes.txt | wc | cat > volcanoes_count.txt
+  125  cat volcanoes_count.txt
+  126  clear
+  127  cat continents.txt
+  128  sort continents.txt
+  129  ls
+  130  sort forests.txt
+  131  cat forests.txt
+  132  clear
+  133  sort forests.txt > sorted_forests.txt
+  134  cat sorted_forests.txt
+  135  cat forests.txt
+  136  cat lakes.txt
+  137  sort lakes.txt
+  138  cat lakes.txt | sort > sorted_lakes.txt
+  139  cat sorted_lakes.txt
+  140  cclear
+  141  clea
+  142  clear
+  143  cat deserts.txt
+  144  uniq deserts.txt
+  145  cat deserts.txt
+  146  clear
+  147  sort deserts.txt | uniq 
+  148  sort deserts.txt | uniq > uniq-deserts.txt
+  149  cat uniq-deserts.txt
+  150  clear
+  151  cd ..
+  152  ls
+  153  git status
+  154  git add -A
+  155  git commit -m "2/1 work"
+  156  git push
+  157  git statis
+  158  git status
+  159  cd ..
+  160  ls
+  161  tree
+  162  ls
+  163  cd ITP270-Lalee
+  164  ls
+  165  cd his
+  166  ls
+  167  history > lecture-2/1.txt
