@@ -1,0 +1,36 @@
+1. Print the working directory.
+	- pwd                                                                    Time: 37
+2. Create and open a file in nano called hello.txt.
+	- nano hello.txt
+3. Save the string, “Hello, I am nano” in hello.txt. Save the file, exit nano, and clear the terminal.
+	- "Hello, I am nano",  ctr + o, ctr + x, clear
+4. Use nano to open the bash profile.
+	- nano ~/.bash_profile
+5. In the bash profile, add a greeting with the word “Hello” using the echo command. Save the file, exit nano, and clear the terminal.
+	- echo "Hello", ctrl + o, enter, Ctrl + x, clear 
+6. Use the source command to make the greeting available in the current session. You should see the greeting you created.
+	- source ~/.bash_profile
+7. Open the bash profile, and create two aliases. The first alias should be p for the pwd command and ll for the ls -la command. Save the file, exit nano, and clear the terminal.
+	- nano ~/.bash_profile, alias p="pwd", alias 11="ls -la"
+8. Use the source command to make the aliases available in the current session.
+	- source ~/.bash_profile
+9. Test out the aliases you created for the pwd and ls -la command.
+	- 11
+10. Open the bash profile and create and export the USER environment variable, setting it equal to your name. Save the file, exit nano, and clear the terminal.
+	- USER="Lalee", export USER
+11. Use the source command to make the aliases available in the current session.
+	- source ~/.bash_profile
+12. Echo the USER variable.
+	- echo $USER
+13. Open the bash profile and create and export the PS1 environment variable, setting it equal to ">> ". Save the file, exit nano, and clear the terminal.
+	- expert PS1=">>"
+14. Use the source command to make the prompt available in the current session.
+	- source ~/.bash_profile 
+15. Test out the prompt by typing the two aliases you created earlier.
+	- p, 11 
+16. Echo the HOME variable.
+	- echo $Home
+17. Echo the PATH variable.
+	- echo $PATH
+18. Return a list of environment variables.
+	- env
