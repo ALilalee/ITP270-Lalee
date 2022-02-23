@@ -1,0 +1,262 @@
+    1  
+    2  ls
+    3  cd ITP270-Lalee
+    4  ls
+    5  mkdir his
+    6  ls
+    7  mv *.txt his
+    8  ls
+    9  cd his
+   10  ls
+   11  cd ..
+   12  cat lec3file_manipulation
+   13  ls
+   14  mv lec3file_manipulation his
+   15  mv lecture3 his
+   16  mv README.md his
+   17  ls
+   18  mv LICENSE his
+   19  ls
+   20  rm test
+   21  rm -r test
+   22  ls
+   23  mkdir ITP270-Lecture
+   24  ls
+   25  cd ..
+   26  cd ITP270-Lalee
+   27  git statu
+   28  git status
+   29  git add -A
+   30  git status
+   31  git commit -m "organizing"
+   32  git push
+   33  ls
+   34  git commit --help
+   35  ls
+   36  tree
+   37  sudo apt update
+   38  git --help
+   39  git config --global color.ui auto
+   40  ls
+   41  cd ITP270-Lalee
+   42  ls
+   43  mv ITP270Lecture2.py ITP270-Lecture
+   44  ls
+   45  cd ITP270-Lecture
+   46  ls
+   47  mkdir python
+   48  ls
+   49  mv ITP270Lecture2.py python
+   50  ls
+   51  cd python
+   52  ls
+   53  tree
+   54  cd ~
+   55  tree
+   56  touch ~/ITP270-Lalee/ITP270-Lecture/python/
+   57  tree
+   58  touch test~/ITP270-Lalee/ITP270-Lecture/python/
+   59  touch test ~/ITP270-Lalee/ITP270-Lecture/python/
+   60  tree
+   61  touch ~/ITP270-Lalee/ITP270-Lecture/python test
+   62  tree
+   63  touch ~/ITP270-Lalee/ITP270-Lecture/python test.py
+   64  tree
+   65  touch test.py ~/ITP270-Lalee/ITP270-Lecture/python 
+   66  tree
+   67  touch --help
+   68  rm test
+   69  rm test.py
+   70  ls
+   71  tree
+   72  cd ITP270-Lalee/ITP270-Lecture/python
+   73  cd ..
+   74  touch justAfile.py
+   75  ls
+   76  mv justAfile.py python
+   77  clear
+   78  git init
+   79  cd ..
+   80  git init
+   81  cd ..
+   82  cd ITP270-Lalee
+   83  git add -A
+   84  git st
+   85  git status
+   86  git add -A
+   87  git pull
+   88  git status
+   89  tree
+   90  git push 
+   91  clear 
+   92  git status
+   93  git commit -m "org"
+   94  git add -A
+   95  cd ITP270-Lecture
+   96  git add -A
+   97  git status
+   98  ls
+   99  rm -r ITP270-Lalee
+  100  /etc/apt/sources.list
+  101  cat /etc/apt/sources.list
+  102  sudo apt update
+  103  sudo apt full-upgrade -y
+  104  sudo apt update
+  105  sudo apt full-upgrade -y
+  106  clearr
+  107  clear
+  108  kali-undercover
+  109  ls
+  110  cd ITP270-
+  111  cd ITP270-Lalee
+  112  ls
+  113  clear
+  114  cd ITP270-Lecture/Movies
+  115  ls
+  116  tree
+  117  cd ..
+  118  tree
+  119  cd ITP270-Lalee/ITP270-Lecture/Movies/Comedy
+  120  l
+  121  ls
+  122  cp *.txt Satire
+  123  tree
+  124  cd ..
+  125  tree
+  126  cd Action
+  127  ls
+  128  tree
+  129  mv superman.txt Superhero
+  130  tree
+  131  ls
+  132  mv batman.txt Superhero
+  133  tree
+  134  ls
+  135  mv wonder-woman.txt Superhero
+  136  ls
+  137  cd Superhero
+  138  ls
+  139  mv batman.txt spiderman.txt
+  140  ls
+  141  mv superman.txt ..
+  142  ls
+  143  cd ..
+  144  ls
+  145  cd ee
+  146  cd ..
+  147  ls
+  148  cd Comedy
+  149  cd Slapstick
+  150  ls
+  151  ls -alt
+  152  rm waterboy.txt
+  153  ls
+  154  cd ..
+  155  clear
+  156  rm -r  Slapstick
+  157  ls
+  158  cd ..
+  159  ls
+  160  cd ..
+  161  ls
+  162  cd his
+  163  ls
+  164  history > lec4.txt
+  165  cd ..
+  166  git status
+  167  git add -A
+  168  git status
+  169  git commit -m "completing lec 4 rm and mv commands"
+  170  git push
+  171  git status
+  172  ls
+  173  cd ITP270-Lalee
+  174  ls
+  175  read -h
+  176  read --help
+  177  read --h
+  178  touch adusr.sh
+  179  nano adusr.sh
+  180  cat adusr.sh
+  181  nano adusr.sh
+  182  sudo ./adusr.sh
+  183  sudo --help
+  184  ls
+  185  sudo adusr.sh
+  186  sudo ./adusr.sh
+  187  cd ..
+  188  sudo ./adusr.sh
+  189  sudo --help
+  190  sudo -su adusr.sh
+  191  sudo -su ./adusr.sh
+  192  ./adusr.sh
+  193  ls
+  194  cd ITP270-Lalee
+  195  ls
+  196  ./adusr.sh
+  197  sudo ./adusr.sh
+  198  nano adusr.sh
+  199  sudo ./adusr.sd
+  200  sudo ./adusr.sh
+  201  ls
+  202  sudo./adusr.sh
+  203  sudo adusr.sh
+  204  sudo bash adusr.sh
+  205  cat adusr.sh
+  206  nano adusr.sh
+  207  chmod 755 adusr.sh
+  208  sudo adusr.sh
+  209  sudo ./adusr.sh
+  210  nano adusr.sh
+  211  ls
+  212  nano add-local-user.sh
+  213  sudo ./add-local-user.sh
+  214  sudo bash ./add-local-user.sh
+  215  cat etc/users
+  216  cat etc/user
+  217  nano add-local-user.sh
+  218  sudo ./add-local-user.sh
+  219  sudo bash ./add-local-user.sh
+  220  nano add-local-user.sh
+  221  clear
+  222  nano add-local-user.sh
+  223  man read bash
+  224  read help
+  225  read -help
+  226  read --help
+  227  read ---help
+  228  read ----help
+  229  read 
+  230  read | echo 
+  231  man read bash
+  232  bash help read
+  233  help read
+  234  -help read
+  235  read -p " enter" test | echo $test
+  236  read -p " enter" TEST | echo $TEST
+  237  cat ect/passwd
+  238  cat etc/passwd
+  239  cat etc/password
+  240  cat etc/
+  241  ls
+  242  cd ..
+  243  cat etc/password
+  244  cat etc/passwd
+  245  cat /etc/passwd
+  246  userdel ali
+  247  userdel -f ali
+  248  sudo userdel -f ali
+  249  sudo userdel -f test
+  250  cat /etc/passwd
+  251  sudo userdel -f test2
+  252  sudo userdel -f he
+  253  sudo ./add-local-user.sh
+  254  sudo bash ./add-local-user.sh
+  255  cd ITP270-Lalee
+  256  ls
+  257  cd ITP270-Lecture
+  258  /-
+  259  ls
+  260  cd ..
+  261  cd his
+  262  ls
