@@ -17,9 +17,4 @@ def middle_element(lst):
 
 print(middle_element([5, 2, -10, -4, 4, 5])) #This should print -7.0
 # **After completing the code, only share the Github link for your python code file. 
-<<<<<<< HEAD
 
-
-    
-=======
->>>>>>> 03451e6e85e4d42c7c7b669b9cbd5014e555bd23
