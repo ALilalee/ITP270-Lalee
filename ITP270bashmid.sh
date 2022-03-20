@@ -12,6 +12,11 @@
 # - Upload the script in to your Github repository - 10 points
 
 # - Paste the Github link of the script in answer box. - 10 points
+if ["${UID}" -ne 0]
+then 
+	echo 'not root user, use sudo'
+	exit 1
+fi
 
 for i in {0..1}; do
     read -p "Username: " U
