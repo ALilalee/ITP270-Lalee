@@ -13,11 +13,22 @@
 
 # - Paste the Github link of the script in answer box. - 10 points
 
-for i in 0{1..2}
-do
-    read -p "Username: " username 
-    read -p "Password: " password
-    if ["${password}" >= 8]
-    echo "username"
-    echo "password"
-    
+for i in {0..1}; do
+    read -p "Username: " U
+    read -p "Password: " P
+    if [ "${#P}" -le "8" ]
+    then
+        while [ "${#P}" -le "8" ]
+        do
+        echo "too short"
+        read -p "Password: " P
+        done
+        useradd -M "${U}"
+         echo ${U}
+         echo ${P}
+    else
+        useradd -M "${U}"
+         echo ${U}
+         echo ${P}
+    fi
+ done  
