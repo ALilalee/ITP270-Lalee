@@ -23,11 +23,9 @@ for i in {0..1}; do
         echo "too short"
         read -p "Password: " P
         done
-        useradd -M "${U}"
          echo ${U}
          echo ${P}
     else
-        useradd -M "${U}"
          echo ${U}
          echo ${P}
     fi
