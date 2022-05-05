@@ -5,6 +5,28 @@ then
 	exit 1
 fi
 
+<<<<<<< HEAD
+=======
+
+# - That creates 2 users (Use a for loop to repeat the add user process twice ) - 20 points
+
+# - Takes 2 inputs (Username and password) - 20 points
+
+# - Validate the password so it is at least 8 characters long (use a while loop and If-else condition) - 30 points
+
+# - Print the new user's username and password in the terminal - 10 points
+
+# - Upload the script in to your Github repository - 10 points
+
+# - Paste the Github link of the script in answer box. - 10 points
+
+if [ "${UID}" -ne "0" ]
+then 
+        echo 'not root user, use sudo'
+        exit 1
+fi
+
+>>>>>>> 7040ace857111c6f9374b6820564a66d830293d3
 for i in {0..1}; do
     read -p "Username: " U
     read -p "Password: " P
@@ -15,11 +37,19 @@ for i in {0..1}; do
         echo "too short"
         read -p "Password: " P
         done
+<<<<<<< HEAD
 	useradd -M ${U}
          echo ${U}
          echo ${P}
     else
 	useradd -M ${U}
+=======
+        useradd -M ${U}
+         echo ${U}
+         echo ${P}
+    else
+        useradd -M ${U}
+>>>>>>> 7040ace857111c6f9374b6820564a66d830293d3
          echo ${U}
          echo ${P}
     fi
